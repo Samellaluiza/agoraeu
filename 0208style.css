@@ -1,0 +1,54 @@
+header{
+    background-image: linear-gradient(to right, rgb(108, 31, 116), rgb(41, 3, 255));
+    color: rgba(248, 190, 250, 0.863);
+    height: 200px;
+    text-align: center;
+
+}
+nav{
+    display: inline;
+    background-image: linear-gradient(to left, rgb(41, 3, 255), rgb(183, 50, 228), rgb(131, 55, 202) 85%);
+
+    padding: 10px 5px 10px 5px;
+    border-radius: 10px;
+
+}
+a{
+    margin: 6vw;
+    color: rgb(41, 3, 255);
+
+}
+main{
+    background-image: linear-gradient(to right, rgb(41, 3, 255), rgb(183, 50, 228), rgb(131, 55, 202) 100%);
+    height: 85vh;
+    text-align: center;
+
+}
+section{
+    background-image: linear-gradient(to right, rgb(41, 3, 255), rgb(183, 50, 228),rgb(131, 55, 202) 90%);
+    width: 85vw;
+    height: 35vh;
+
+}
+article{
+    background-image: linear-gradient(to right, rgb(41, 3, 255), rgb(183, 50, 228), rgb(131, 55, 202)80%);
+    width: 70vw;
+    height: 25vh;
+
+}
+aside{
+    background-image: linear-gradient(to right,rgb(41, 3, 255), rgb(183, 50, 228), rgb(131, 55, 202)70%);
+    width: 55vw;
+    height: 18vh;
+
+}
+footer{
+    background-image: linear-gradient(to right, rgb(150, 46, 150), rgb(41, 3, 252), rgb(131, 55, 202)60%);
+    height: 10vh;
+    text-align: center;
+}
+h2{
+    color: rgb(94, 218, 240);
+    font-size: larger;
+    text-align: center;
+}
